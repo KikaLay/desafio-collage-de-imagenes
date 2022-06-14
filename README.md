@@ -2,7 +2,6 @@
 
 En este desafío se crea un servidor con Express y el paquete express-fileupload para almacenar las imágenes que estarán dentro del collage
 
-![](https://github.com/aleyire/collage-fotos/blob/main/public/img/git.gif)
 
 ### Materia aplicada
 
